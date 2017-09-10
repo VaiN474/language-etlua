@@ -1,6 +1,6 @@
 # language-etlua package
 
-Atom Grammar/Language for Etlua Templates (HTML/Lua)
+Atom Grammar/Language for [etlua](https://github.com/leafo/etlua) templates (HTML/Lua)
 
 ## Installation
 
